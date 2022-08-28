@@ -9,8 +9,9 @@ ion-label {
 }
 
 ion-item h2 {
-  font-weight: 600;
+  font-weight: 400;
   margin: 0;
+  font-size: 12.5px;
 }
 
 ion-item p {
@@ -42,11 +43,11 @@ ion-item ion-note.md {
 
 .dot {
   display: block;
-  height: 12px;
-  width: 12px;
+  height: 10px;
+  width: 10px;
   border-radius: 50%;
   align-self: start;
-  margin: 16px 10px 16px 16px;
+  margin: 17px 12px 12px 12px;
 }
 
 .dot-unread {
@@ -56,4 +57,9 @@ ion-item ion-note.md {
 ion-footer ion-title {
   font-size: 11px;
   font-weight: normal;
+}
+
+ion-item ion-icon {
+  padding-left: 2vw;
+  padding-right: 2vw;
 }

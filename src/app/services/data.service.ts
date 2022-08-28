@@ -14,112 +14,112 @@ export interface Message {
 export class DataService {
   public messages: Message[] = [
     {
-      fromName: 'Matt Chorsey',
+      fromName: 'Brasileirão - Série A',
       subject: 'New event: Trip to Vegas',
-      date: '9:32 AM',
+      date: '1º 14:00',
       id: 10,
       read: false
     },
     {
-      fromName: 'Lauren Ruthford',
+      fromName: 'Brasileirão - Série A',
       subject: 'Long time no chat',
       date: '6:12 AM',
       id: 11,
       read: false
     },
     {
-      fromName: 'Jordan Firth',
+      fromName: 'Brasileirão - Série A',
       subject: 'Report Results',
       date: '4:55 AM',
       id: 12,
       read: false
     },
     {
-      fromName: 'Bill Thomas',
+      fromName: 'Brasileirão - Série A',
       subject: 'The situation',
       date: 'Yesterday',
       id: 13,
       read: false
     },
     {
-      fromName: 'Joanne Pollan',
+      fromName: 'Brasileirão - Série A',
       subject: 'Updated invitation: Swim lessons',
       date: 'Yesterday',
       id: 14,
       read: false
     },
     {
-      fromName: 'Andrea Cornerston',
+      fromName: 'Brasileirão - Série A',
       subject: 'Last minute ask',
       date: 'Yesterday',
       id: 15,
       read: false
     },
     {
-      fromName: 'Moe Chamont',
+      fromName: 'Brasileirão - Série A',
       subject: 'Family Calendar - Version 1',
       date: 'Last Week',
       id: 16,
       read: false
     },
     {
-      fromName: 'Kelly Richardson',
+      fromName: 'Brasileirão - Série A',
       subject: 'Placeholder Headhots',
       date: 'Last Week',
       id: 17,
       read: false
     },
     {
-      fromName: 'Matt Chorsey',
+      fromName: 'Brasileirão - Série A',
       subject: 'New event: Trip to Vegas',
       date: '9:32 AM',
       id: 0,
       read: false
     },
     {
-      fromName: 'Lauren Ruthford',
+      fromName: 'Brasileirão - Série A',
       subject: 'Long time no chat',
       date: '6:12 AM',
       id: 1,
       read: false
     },
     {
-      fromName: 'Jordan Firth',
+      fromName: 'Brasileirão - Série A',
       subject: 'Report Results',
       date: '4:55 AM',
       id: 2,
       read: false
     },
     {
-      fromName: 'Bill Thomas',
+      fromName: 'Brasileirão - Série A',
       subject: 'The situation',
       date: 'Yesterday',
       id: 3,
       read: false
     },
     {
-      fromName: 'Joanne Pollan',
+      fromName: 'Brasileirão - Série A',
       subject: 'Updated invitation: Swim lessons',
       date: 'Yesterday',
       id: 4,
       read: false
     },
     {
-      fromName: 'Andrea Cornerston',
+      fromName: 'Brasileirão - Série A',
       subject: 'Last minute ask',
       date: 'Yesterday',
       id: 5,
       read: false
     },
     {
-      fromName: 'Moe Chamont',
+      fromName: 'Brasileirão - Série A',
       subject: 'Family Calendar - Version 1',
       date: 'Last Week',
       id: 6,
       read: false
     },
     {
-      fromName: 'Kelly Richardson',
+      fromName: 'Brasileirão - Série A',
       subject: 'Placeholder Headhots',
       date: 'Last Week',
       id: 7,
