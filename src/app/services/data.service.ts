@@ -17,6 +17,62 @@ export class DataService {
       fromName: 'Matt Chorsey',
       subject: 'New event: Trip to Vegas',
       date: '9:32 AM',
+      id: 10,
+      read: false
+    },
+    {
+      fromName: 'Lauren Ruthford',
+      subject: 'Long time no chat',
+      date: '6:12 AM',
+      id: 11,
+      read: false
+    },
+    {
+      fromName: 'Jordan Firth',
+      subject: 'Report Results',
+      date: '4:55 AM',
+      id: 12,
+      read: false
+    },
+    {
+      fromName: 'Bill Thomas',
+      subject: 'The situation',
+      date: 'Yesterday',
+      id: 13,
+      read: false
+    },
+    {
+      fromName: 'Joanne Pollan',
+      subject: 'Updated invitation: Swim lessons',
+      date: 'Yesterday',
+      id: 14,
+      read: false
+    },
+    {
+      fromName: 'Andrea Cornerston',
+      subject: 'Last minute ask',
+      date: 'Yesterday',
+      id: 15,
+      read: false
+    },
+    {
+      fromName: 'Moe Chamont',
+      subject: 'Family Calendar - Version 1',
+      date: 'Last Week',
+      id: 16,
+      read: false
+    },
+    {
+      fromName: 'Kelly Richardson',
+      subject: 'Placeholder Headhots',
+      date: 'Last Week',
+      id: 17,
+      read: false
+    },
+    {
+      fromName: 'Matt Chorsey',
+      subject: 'New event: Trip to Vegas',
+      date: '9:32 AM',
       id: 0,
       read: false
     },
