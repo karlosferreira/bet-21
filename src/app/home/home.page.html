@@ -5,8 +5,10 @@
     </ion-title>
   </ion-toolbar>
   <ion-toolbar color="primary">
-    <ion-button expand="block" size="small" color="secondary">LOGIN</ion-button>
-    <ion-button expand="block" size="small" color="tertiary">REGISTER</ion-button>
+    <nav>
+      <ion-button expand="block" size="small" color="secondary">LOGIN</ion-button>
+      <ion-button expand="block" size="small" color="tertiary">REGISTER</ion-button>
+    </nav>
   </ion-toolbar>
 </ion-header>
 
@@ -25,7 +27,7 @@
     </ion-toolbar>
   </ion-header>
   
-  <ion-list>
+  <ion-list color="list">
     <app-message *ngFor="let message of getMessages()" [message]="message"></app-message>
   </ion-list>
 </ion-content>
